@@ -8,4 +8,4 @@ node app.js
 
 Video demo on how to setup a Node.js app for production on an Ubuntu server:
 
-COMING SOON
+[Video: How to Deploy a Node.js App on Ubuntu with PM2, NGINX and Cloudflare](https://www.youtube.com/watch?v=9FvgyWDsViA)
